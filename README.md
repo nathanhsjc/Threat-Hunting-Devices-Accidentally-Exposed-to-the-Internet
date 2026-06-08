@@ -1,4 +1,11 @@
 
+
+
+<img width="1604" height="730" alt="image" src="https://github.com/user-attachments/assets/b9a4eb8c-b5bc-473d-be85-02988003b53e" />
+
+
+
+
 ## Platforms and Languages Leveraged
 - Windows 11 Virtual Machines (Microsoft Azure)
 - EDR Platform: Microsoft Defender for Endpoint

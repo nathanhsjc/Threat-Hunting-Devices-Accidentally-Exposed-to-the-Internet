@@ -1,5 +1,3 @@
-# Threat-Hunting-Devices-Accidentally-Exposed-to-the-Internet
-
 
 ## Platforms and Languages Leveraged
 - Windows 11 Virtual Machines (Microsoft Azure)
@@ -9,7 +7,7 @@
 
 
 
-# Threat Hunt: Brute Force Detection on Internet-Exposed VM
+# Threat Hunt: Devices Accidentally Exposed to the Internet
  
 **Tools:** Microsoft Defender for Endpoint · KQL · MITRE ATT&CK  
 **Environment:** Azure · Windows Server VM (`windows-target-1`)  
